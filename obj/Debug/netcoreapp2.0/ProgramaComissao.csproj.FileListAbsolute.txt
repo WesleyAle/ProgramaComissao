@@ -1,0 +1,10 @@
+C:\Users\wesley.abatista\ProgramaComissao\bin\Debug\netcoreapp2.0\ProgramaComissao.deps.json
+C:\Users\wesley.abatista\ProgramaComissao\bin\Debug\netcoreapp2.0\ProgramaComissao.runtimeconfig.json
+C:\Users\wesley.abatista\ProgramaComissao\bin\Debug\netcoreapp2.0\ProgramaComissao.runtimeconfig.dev.json
+C:\Users\wesley.abatista\ProgramaComissao\bin\Debug\netcoreapp2.0\ProgramaComissao.dll
+C:\Users\wesley.abatista\ProgramaComissao\bin\Debug\netcoreapp2.0\ProgramaComissao.pdb
+C:\Users\wesley.abatista\ProgramaComissao\obj\Debug\netcoreapp2.0\ProgramaComissao.csproj.CoreCompileInputs.cache
+C:\Users\wesley.abatista\ProgramaComissao\obj\Debug\netcoreapp2.0\ProgramaComissao.AssemblyInfoInputs.cache
+C:\Users\wesley.abatista\ProgramaComissao\obj\Debug\netcoreapp2.0\ProgramaComissao.AssemblyInfo.cs
+C:\Users\wesley.abatista\ProgramaComissao\obj\Debug\netcoreapp2.0\ProgramaComissao.dll
+C:\Users\wesley.abatista\ProgramaComissao\obj\Debug\netcoreapp2.0\ProgramaComissao.pdb
